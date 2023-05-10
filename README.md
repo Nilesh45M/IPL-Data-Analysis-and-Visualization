@@ -21,11 +21,7 @@ Does winning the toss implies winning the game?
 
 How many times chasing team has won the match?
 
-Which all teams had won this tournament?
-
 Which team has played the most number of matches?
-
-Which team has won the most number of times?
 
 Which team has the highest winning percentage?
 
